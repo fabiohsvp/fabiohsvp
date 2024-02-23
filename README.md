@@ -3,8 +3,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-henrique-1608bb1b5/)
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://alp4ca.itch.io)
 
-![Fabio GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioHenrique&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioHenrique&layout=compact&theme=cobalt)
+![Fabio GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiohsvp&show_icons=true&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiohsvp&layout=compact&theme=cobalt)
 
 Liguagens aprendidas:
 <div style="display: inline_block"><br/>
